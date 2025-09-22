@@ -1,3 +1,13 @@
+
+
+# ignore csvs
+*.csv
+
+# ignore data folder
+data/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
